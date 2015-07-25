@@ -1,0 +1,13 @@
+cd  <--- change directory command, returns your path to home directory
+cd Desktop  <--- change directory command, assigns your path to the location specified
+ls  <--- list command
+cd ..  <--- move one directory up
+ls -l  <--- list long
+man ls  <--- manuscript for ls (can assign 'man' to different things)
+subl  <--- opens Sublime Text from terminal
+git --version  <--- displays which version of git you are running
+
+
+Hidden files can be accessed with .git notation.
+
+Do not initialize a Git repo from your home dir. This is bad. Don't do it.
